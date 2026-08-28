@@ -1,6 +1,6 @@
 ---
 name: alibaba-java-coding-guidelines
-description: 阿里巴巴 Java 开发手册（黄山版）开发规范约束。This skill should be used when writing, modifying, reviewing, or refactoring Java code; when discussing or querying Java coding standards (naming, OOP, collections, concurrency, control flow, comments, exceptions, logging, unit tests, security, MySQL, engineering structure, design conventions); or when the codebase needs a standards-aligned code review. 编写、修改、评审 Java 代码，讨论 Java 命名/OOP/集合/并发/异常/日志/单元测试/安全/MySQL/工程结构/设计规约，或需要按《Java 开发手册（黄山版）》规约自查与评审时使用。
+description: Enforce the Alibaba Java Development Manual (Huangshan v1.7.1, 327 rules) as the coding standard for Java projects. Use when writing, modifying, reviewing, or refactoring Java code; when discussing or querying Java coding conventions (naming, constants, OOP, collections, concurrency, control flow, comments, exceptions, logging, unit tests, security, MySQL, engineering structure, design); or when a standards-aligned code review is needed. 编写、修改、评审 Java 代码，讨论 Java 编码规约，或需按《阿里巴巴 Java 开发手册（黄山版）》规约自查与评审时使用。
 agent_created: true
 ---
 
