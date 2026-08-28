@@ -18,7 +18,38 @@
 
 ## 安装
 
-### WorkBuddy（推荐）
+### Claude Code
+
+```bash
+mkdir -p ~/.claude/skills
+ln -s "$(pwd)/alibaba-java-coding-guidelines" ~/.claude/skills/alibaba-java-coding-guidelines
+```
+
+### Cursor
+
+```bash
+# 项目级（推荐）：放入项目根目录
+mkdir -p .cursor/skills
+ln -s "$(pwd)/alibaba-java-coding-guidelines" .cursor/skills/alibaba-java-coding-guidelines
+
+# 或用户级（全局生效）：
+mkdir -p ~/.cursor/skills
+ln -s "$(pwd)/alibaba-java-coding-guidelines" ~/.cursor/skills/alibaba-java-coding-guidelines
+```
+
+### OpenCode
+
+```bash
+# 项目级：
+mkdir -p .opencode/skills
+ln -s "$(pwd)/alibaba-java-coding-guidelines" .opencode/skills/alibaba-java-coding-guidelines
+
+# 或用户级（全局生效）：
+mkdir -p ~/.config/opencode/skills
+ln -s "$(pwd)/alibaba-java-coding-guidelines" ~/.config/opencode/skills/alibaba-java-coding-guidelines
+```
+
+### WorkBuddy（CodeBuddy）
 
 ```bash
 git clone https://github.com/Castlebin/alibaba-java-coding-guidelines.git
@@ -27,11 +58,28 @@ ln -s "$(pwd)/alibaba-java-coding-guidelines" ~/.workbuddy/skills/alibaba-java-c
 
 或直接复制目录到 `~/.workbuddy/skills/` 下。安装后，编写/评审 Java 代码时该 skill 会自动触发，作为开发规范约束日常开发。
 
-### Claude Code / Claude Agent Skills
+### Trae（TraeWork）
 
 ```bash
-mkdir -p ~/.claude/skills
-ln -s "$(pwd)/alibaba-java-coding-guidelines" ~/.claude/skills/alibaba-java-coding-guidelines
+# 用户级（全局生效）：
+mkdir -p ~/.trae/skills
+ln -s "$(pwd)/alibaba-java-coding-guidelines" ~/.trae/skills/alibaba-java-coding-guidelines
+
+# 或项目级：
+mkdir -p .trae/skills
+ln -s "$(pwd)/alibaba-java-coding-guidelines" .trae/skills/alibaba-java-coding-guidelines
+```
+
+### Qoder（QoderWork）
+
+```bash
+# 用户级（全局生效）：
+mkdir -p ~/.qoder/skills
+ln -s "$(pwd)/alibaba-java-coding-guidelines" ~/.qoder/skills/alibaba-java-coding-guidelines
+
+# 或项目级：
+mkdir -p .qoder/skills
+ln -s "$(pwd)/alibaba-java-coding-guidelines" .qoder/skills/alibaba-java-coding-guidelines
 ```
 
 ### 通用（不依赖具体助手）
