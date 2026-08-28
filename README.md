@@ -25,6 +25,18 @@ mkdir -p ~/.claude/skills
 ln -s "$(pwd)/alibaba-java-coding-guidelines" ~/.claude/skills/alibaba-java-coding-guidelines
 ```
 
+### Codex（OpenAI Codex CLI）
+
+```bash
+# 用户级（全局生效）：
+mkdir -p ~/.codex/skills
+ln -s "$(pwd)/alibaba-java-coding-guidelines" ~/.codex/skills/alibaba-java-coding-guidelines
+
+# 或项目级：
+mkdir -p .codex/skills
+ln -s "$(pwd)/alibaba-java-coding-guidelines" .codex/skills/alibaba-java-coding-guidelines
+```
+
 ### Cursor
 
 ```bash
