@@ -90,3 +90,14 @@ Apache-2.0。手册内容源自 [alibaba/p3c](https://github.com/alibaba/p3c)（
 - 官方 GitBook：https://alibaba.github.io/p3c/
 - 官方仓库：https://github.com/alibaba/p3c
 - 配套图书《码出高效》：2018 年 9 月云栖大会发布，36 万字详解
+
+## 公共 skill 仓库提交
+
+已在以下社区 skill 仓库发起收录 PR（评审合并后可通过对应渠道发现本 skill）：
+
+| 仓库 | PR |
+| --- | --- |
+| [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)（10k+ stars，开发/安全向） | [PR #642](https://github.com/BehiSecc/awesome-claude-skills/pull/642) |
+| [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)（14k+ stars，社区精选） | [PR #1180](https://github.com/travisvn/awesome-claude-skills/pull/1180) |
+
+> 注：travisvn 仓库要求新技能具备一定的社区使用证明（social proof），新仓库可能需积累 star 后合并；欢迎为该仓库点 star 加速收录。
