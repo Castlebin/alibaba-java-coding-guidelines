@@ -155,13 +155,13 @@ Apache-2.0。手册内容源自 [alibaba/p3c](https://github.com/alibaba/p3c)（
 
 已在以下社区 skill 仓库发起收录 PR（评审合并后可通过对应渠道发现本 skill）：
 
-| 仓库 | PR |
-| --- | --- |
-| [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)（10k+ stars，开发/安全向） | [PR #642](https://github.com/BehiSecc/awesome-claude-skills/pull/642) |
-| [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)（14k+ stars，社区精选） | [PR #1180](https://github.com/travisvn/awesome-claude-skills/pull/1180) |
-| [spencerpauly/awesome-cursor-skills](https://github.com/spencerpauly/awesome-cursor-skills)（700+ stars，Cursor 技能精选） | [PR #57](https://github.com/spencerpauly/awesome-cursor-skills/pull/57) |
-| [TheArchitectit/awesome-opencode-skills](https://github.com/TheArchitectit/awesome-opencode-skills)（140+ stars，OpenCode 技能精选） | [PR #6](https://github.com/TheArchitectit/awesome-opencode-skills/pull/6) |
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)（73k+ stars，Claude Code/Codex/WorkBuddy 通用技能合集） | [PR #1751](https://github.com/ComposioHQ/awesome-claude-skills/pull/1751) |
+| 仓库 | PR | 状态 |
+| --- | --- | --- |
+| [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)（10k+ stars，开发/安全向） | [PR #642](https://github.com/BehiSecc/awesome-claude-skills/pull/642) | closed（未合并） |
+| [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)（14k+ stars，社区精选） | [PR #1180](https://github.com/travisvn/awesome-claude-skills/pull/1180) | open |
+| [spencerpauly/awesome-cursor-skills](https://github.com/spencerpauly/awesome-cursor-skills)（700+ stars，Cursor 技能精选） | [PR #57](https://github.com/spencerpauly/awesome-cursor-skills/pull/57) | open |
+| [TheArchitectit/awesome-opencode-skills](https://github.com/TheArchitectit/awesome-opencode-skills)（140+ stars，OpenCode 技能精选） | [PR #6](https://github.com/TheArchitectit/awesome-opencode-skills/pull/6) | open |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)（73k+ stars，Claude Code/Codex/WorkBuddy 通用技能合集） | [PR #1751](https://github.com/ComposioHQ/awesome-claude-skills/pull/1751) | open |
 
 > 注 1：travisvn 仓库要求新技能具备一定的社区使用证明（social proof），新仓库可能需积累 star 后合并；欢迎为该仓库点 star 加速收录。
 > 注 2：VoltAgent/awesome-agent-skills（32k+ stars）按其贡献规范仅收录有真实社区使用的新技能（"Brand new skills that were just created are not accepted"），待本技能积累使用量后再提交。
